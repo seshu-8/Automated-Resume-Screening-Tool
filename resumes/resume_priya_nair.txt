@@ -1,0 +1,44 @@
+PRIYA NAIR
+Email: priya.nair@email.com | Phone: +91-9812345678
+LinkedIn: linkedin.com/in/priyanair
+
+OBJECTIVE
+Detail-oriented Data Analyst with experience in Python, SQL, and Tableau seeking analytics roles.
+
+EDUCATION
+B.Sc in Statistics | University of Mumbai | 2019–2022 | Percentage: 78%
+
+SKILLS
+Programming: Python, R, SQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Tools: Tableau, Power BI, Excel (Advanced), MySQL, PostgreSQL
+Other: Data Cleaning, EDA, Statistical Analysis, Dashboard Creation
+
+EXPERIENCE
+Data Analyst Intern | Infosys BPM | May 2022 – Aug 2022
+- Performed exploratory data analysis on sales datasets using Python and Pandas
+- Created interactive dashboards in Tableau for business stakeholders
+- Automated weekly reports using Python scripts, saving 10+ hours/week
+
+Freelance Data Analyst | Upwork | 2021–2022
+- Cleaned and analyzed datasets for 5+ clients
+- Delivered insights via Excel reports and Tableau dashboards
+
+PROJECTS
+1. Sales Performance Dashboard — Python, Tableau, SQL
+   End-to-end analytics pipeline with visual dashboard
+
+2. Customer Segmentation — Python, K-Means, Pandas
+   Segmented 10,000+ customers using clustering algorithms
+
+3. HR Attrition Analysis — Python, Seaborn, Scikit-learn
+   Predicted employee attrition with 82% model accuracy
+
+CERTIFICATIONS
+- IBM Data Analyst Professional Certificate
+- Tableau Desktop Specialist
+- SQL for Data Science — Coursera
+
+ACHIEVEMENTS
+- Published article on Medium: "10 Pandas Tricks Every Data Analyst Should Know"
+- 300+ LinkedIn followers for data content

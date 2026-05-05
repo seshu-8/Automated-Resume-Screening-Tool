@@ -1,0 +1,46 @@
+ARJUN SHARMA
+Email: arjun.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma
+
+OBJECTIVE
+Seeking a Software Engineer role where I can apply my Python, machine learning, and data analysis skills.
+
+EDUCATION
+B.Tech in Computer Science | IIT Hyderabad | 2020–2024 | CGPA: 8.6/10
+
+SKILLS
+Programming: Python, Java, C++, SQL
+Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, Flask
+Tools: Git, Docker, Linux, VS Code, Jupyter Notebook
+Cloud: AWS (EC2, S3), Google Cloud basics
+Other: REST API, Agile, JIRA
+
+EXPERIENCE
+Data Science Intern | TCS Digital | June 2023 – Aug 2023
+- Built a customer churn prediction model using Random Forest (85% accuracy)
+- Automated ETL pipeline using Python and Pandas, reducing manual effort by 40%
+- Worked with SQL databases to extract and process large datasets
+
+Python Developer Intern | StartupXYZ | Dec 2022 – Feb 2023
+- Developed REST APIs using Flask for internal tools
+- Wrote unit tests and maintained CI/CD pipelines using GitHub Actions
+
+PROJECTS
+1. Resume Screening Tool — Python, NLP, Scikit-learn, Streamlit
+   Automated candidate screening using TF-IDF and cosine similarity
+
+2. Stock Price Predictor — Python, LSTM, Pandas
+   Predicted stock trends using historical data (RMSE: 3.2%)
+
+3. COVID Data Dashboard — Python, Plotly, Dash
+   Interactive visualization of global COVID-19 data
+
+ACHIEVEMENTS
+- Qualified GATE 2024 (CS) with AIR 342
+- Winner — Hackathon at IIT Hyderabad (2023)
+- 5-star Python on HackerRank
+
+CERTIFICATIONS
+- Google Data Analytics Certificate
+- AWS Cloud Practitioner
+- Deep Learning Specialization — Coursera

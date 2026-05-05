@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project outputs (keep folder, ignore generated files)
+outputs/*.csv
+outputs/*.json
+outputs/*.xlsx
+
+# NLTK data (downloaded at runtime)
+nltk_data/
+
+# Temp files
+*.tmp
+*.log

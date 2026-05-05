@@ -1,0 +1,36 @@
+VIKRAM PATEL
+Email: vikram.patel@email.com | Phone: +91-9988776655
+
+OBJECTIVE
+Recent B.Tech graduate with Python and data analysis skills looking for entry-level developer roles.
+
+EDUCATION
+B.Tech in Information Technology | VIT Vellore | 2019–2023 | CGPA: 7.4/10
+
+SKILLS
+Programming: Python, Java, HTML/CSS
+Libraries: Pandas, NumPy, Matplotlib, Flask
+Tools: Git, MySQL, Excel, Postman
+Other: REST APIs, Basic Machine Learning concepts
+
+EXPERIENCE
+Web Developer Intern | Web Agency | March 2023 – May 2023
+- Built landing pages using HTML/CSS/JavaScript
+- Basic backend with Flask and MySQL
+
+PROJECTS
+1. Expense Tracker — Python, Flask, SQLite
+   Web-based personal finance tracker
+
+2. Student Result Analysis — Python, Pandas, Matplotlib
+   Data analysis and visualization of exam results
+
+3. Library Management System — Python, MySQL
+   CRUD operations with GUI using Tkinter
+
+CERTIFICATIONS
+- Python Basics — HackerRank
+- Introduction to Data Science — Coursera
+
+HOBBIES
+Coding, badminton, reading tech blogs

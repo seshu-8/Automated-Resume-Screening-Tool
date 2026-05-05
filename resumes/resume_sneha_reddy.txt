@@ -1,0 +1,46 @@
+SNEHA REDDY
+Email: sneha.reddy@email.com | GitHub: github.com/snehareddy
+LinkedIn: linkedin.com/in/snehareddy
+
+OBJECTIVE
+Machine Learning Engineer with strong Python and deep learning experience. Passionate about NLP and computer vision.
+
+EDUCATION
+M.Tech in Artificial Intelligence | IIT Madras | 2021–2023 | CGPA: 9.1/10
+B.Tech in ECE | JNTU Hyderabad | 2017–2021 | CGPA: 8.3/10
+
+SKILLS
+Programming: Python, C++, CUDA
+ML/DL Libraries: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV
+NLP: NLTK, spaCy, Hugging Face Transformers, BERT, GPT
+Tools: Git, Docker, Kubernetes, MLflow, Weights & Biases
+Cloud: AWS SageMaker, GCP Vertex AI
+Databases: MongoDB, PostgreSQL, Redis
+
+EXPERIENCE
+ML Engineer | Zoho Corp | Sept 2023 – Present
+- Deployed NLP models for email classification with 94% accuracy
+- Optimized BERT fine-tuning pipeline, reducing training time by 35%
+- Built real-time inference APIs using FastAPI serving 50K+ requests/day
+
+Research Intern | CDAC | June 2022 – Dec 2022
+- Worked on speech recognition for Indian languages
+- Implemented attention mechanisms in PyTorch
+
+PROJECTS
+1. Multilingual Sentiment Analysis — BERT, Hugging Face, FastAPI
+   Supports 5 Indian languages, deployed on AWS
+
+2. Automated Resume Screening — Python, TF-IDF, Cosine Similarity, Streamlit
+   Screens resumes against job descriptions with scoring
+
+3. Real-Time Object Detection — YOLOv8, OpenCV, Python
+   Custom trained on industrial defect dataset
+
+PUBLICATIONS
+- "Efficient Fine-tuning of BERT for Low-Resource Indian Languages" — EMNLP 2023
+
+CERTIFICATIONS
+- Deep Learning Specialization (5 courses) — Coursera
+- MLOps Specialization — Coursera
+- TensorFlow Developer Certificate — Google

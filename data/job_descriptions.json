@@ -1,0 +1,43 @@
+{
+  "jobs": [
+    {
+      "id": "JD001",
+      "title": "Python Developer / Data Analyst",
+      "company": "TechCorp Solutions",
+      "description": "We are looking for a skilled Python Developer with data analysis experience. The candidate should have strong knowledge of Python programming, data manipulation using Pandas and NumPy, machine learning with Scikit-learn, SQL databases, data visualization, and REST API development. Experience with Git, Docker, and cloud platforms is preferred. Strong problem-solving skills and ability to work with large datasets required.",
+      "required_skills": [
+        "Python", "Pandas", "NumPy", "SQL", "Machine Learning",
+        "Scikit-learn", "Git", "REST API", "Data Analysis",
+        "Matplotlib", "Flask", "Docker"
+      ],
+      "experience_required": "0-2 years",
+      "education": "B.Tech/B.E in CS/IT or related field"
+    },
+    {
+      "id": "JD002",
+      "title": "Machine Learning Engineer",
+      "company": "AI Ventures Pvt Ltd",
+      "description": "Seeking an experienced ML Engineer to build and deploy machine learning models. Must have deep knowledge of TensorFlow or PyTorch, NLP techniques, BERT/Transformer models, Python, and MLOps practices. Experience with cloud platforms (AWS/GCP), Docker, Kubernetes, and FastAPI is essential. Strong background in deep learning and model optimization required.",
+      "required_skills": [
+        "Python", "TensorFlow", "PyTorch", "NLP", "BERT",
+        "Scikit-learn", "Docker", "Kubernetes", "AWS", "FastAPI",
+        "Machine Learning", "Deep Learning", "Git", "MLflow"
+      ],
+      "experience_required": "1-3 years",
+      "education": "B.Tech/M.Tech in CS/AI/ML or related field"
+    },
+    {
+      "id": "JD003",
+      "title": "Data Analyst",
+      "company": "Analytics Hub",
+      "description": "Looking for a Data Analyst proficient in Python, SQL, and data visualization tools. Must have experience with Pandas, NumPy, Tableau or Power BI, statistical analysis, and dashboard creation. Ability to clean large datasets, perform EDA, and present insights to stakeholders. Excel proficiency required.",
+      "required_skills": [
+        "Python", "SQL", "Pandas", "NumPy", "Tableau",
+        "Power BI", "Excel", "Statistics", "Data Visualization",
+        "EDA", "Matplotlib", "Seaborn", "PostgreSQL"
+      ],
+      "experience_required": "0-2 years",
+      "education": "B.Sc Statistics/Math/CS or B.Tech"
+    }
+  ]
+}

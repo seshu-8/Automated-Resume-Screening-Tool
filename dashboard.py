@@ -39,8 +39,10 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-import streamlit.components.v1 as components
-components.html('<meta name="google-site-verification" content="eyk5YWFpwTXE7mSnaRT-Uf18rMxtqh9zFOihRAF41Xw" />', height=0)
+import streamlit as st
+if "google26af90abb4767635" in st.experimental_get_query_params() or st.query_params.get("page") == "google26af90abb4767635.html":
+    st.write("google-site-verification: google26af90abb4767635.html")
+    st.stop()
 # ─────────────────────────────────────────────────────────────────────────────
 # CUSTOM CSS
 # ─────────────────────────────────────────────────────────────────────────────

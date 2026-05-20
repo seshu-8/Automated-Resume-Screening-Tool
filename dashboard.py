@@ -1,3 +1,7 @@
+import streamlit as st
+if "page" in st.query_params and st.query_params["page"] == "google26af90abb4767635.html":
+    st.write("google-site-verification: google26af90abb4767635.html")
+    st.stop()
 """
 dashboard.py
 ------------
@@ -38,9 +42,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
-import streamlit.components.v1 as components
-components.html('<meta name="google-site-verification" content="eyk5YWFpwTXE7mSnaRT-Uf18rMxtqh9zFOihRAF41Xw" />', height=0)
 # ─────────────────────────────────────────────────────────────────────────────
 # CUSTOM CSS
 # ─────────────────────────────────────────────────────────────────────────────

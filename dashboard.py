@@ -39,6 +39,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+import streamlit.components.v1 as components
+components.html('<meta name="google-site-verification" content="eyk5YWFpwTXE7mSnaRT-Uf18rMxtqh9zFOihRAF41Xw" />')
 # ─────────────────────────────────────────────────────────────────────────────
 # CUSTOM CSS
 # ─────────────────────────────────────────────────────────────────────────────

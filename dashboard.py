@@ -1,7 +1,3 @@
-import streamlit as st
-if "page" in st.query_params and st.query_params["page"] == "google26af90abb4767635.html":
-    st.write("google-site-verification: google26af90abb4767635.html")
-    st.stop()
 """
 dashboard.py
 ------------
